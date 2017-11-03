@@ -1,0 +1,48 @@
+h1{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
+p{
+  font-family: 'Oswald', sans-serif;
+  padding: 10px;
+  text-align: center;
+}
+
+input{
+  background-color: lightpink;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+
+}
+
+
+button{
+  height: 50px;
+  width: 100px;
+}
+
+input[type=radio]{
+  padding: 5px;
+  margin-left: 200px;
+  background-color: lightpink;
+  text-align: center;
+}
+
+input[type=button]{
+  padding: 10px;
+  font-size: 20px;
+  margin-left:550px;
+
+}
+
+div{
+  width: 50%;
+  height:150px;
+  background-color: lightpink;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
